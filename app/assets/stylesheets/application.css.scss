@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
- 
+// Keep this order!
 @import "bootstrap-sprockets";
 @import "bootstrap";
+// Place custom css depending on bootstrap variables here!
