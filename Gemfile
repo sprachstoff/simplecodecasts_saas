@@ -6,7 +6,7 @@ gem 'rails', '4.1.0'
 gem 'sqlite3', group: [:development, :test]
 # Use postgresql as the database for production
 
-gem 'bootstrap-sass', '3.2.0.2'
+gem 'bootstrap-sass', '3.3.5'
 
 # Use bootstrap library for styles
 
@@ -40,6 +40,5 @@ gem 'spring',        group: :development
 # gem 'capistrano-rails', group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
 
 
